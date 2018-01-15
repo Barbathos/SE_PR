@@ -1,5 +1,6 @@
 <application>
   <component name="GithubSettings">
+    <option name="HOST" value="https://github.com/Barbathos/SE_PR" />
     <option name="AUTH_TYPE" value="TOKEN" />
   </component>
 </application>
